@@ -3,5 +3,5 @@
 ```bash
 mkdir project
 cd project
-git clone --recurse-submodules https://github.com/arabam13/postBlog-mean-aws.git .
+git clone --recurse-submodules https://github.com/arabam13/alten-shop-products.git .
 ```
