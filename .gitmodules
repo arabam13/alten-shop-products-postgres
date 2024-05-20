@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/arabam13/alten-shop-products-server.git
+[submodule "front"]
+	path = front
+	url = https://github.com/arabam13/alten-shop-products-client.git
