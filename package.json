@@ -1,0 +1,14 @@
+{
+  "name": "alten-shop-products-postgresql",
+  "version": "1.0.0",
+  "description": "```bash mkdir project cd project git clone --recurse-submodules https://github.com/arabam13/alten-shop-products.git . ```",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install && cd ../front && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
