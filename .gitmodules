@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/arabam13/alten-shop-products-postgres-backend.git
+[submodule "front"]
+	path = front
+	url = https://github.com/arabam13/alten-shop-products-postgres-front.git
